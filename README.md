@@ -3,6 +3,7 @@
 ## Overview
 This project models the core data relationships within a wealth management system.  
 It represents how financial advisors manage clients, who own investment portfolios containing securities.
+Developed as part of Wells Fargo software engineering program.
 
 The application uses:
 - **Spring Boot**
