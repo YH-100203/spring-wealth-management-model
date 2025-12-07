@@ -1,6 +1,6 @@
 # Wealth Management Data Model (Spring Boot + JPA)
 
-## 💼 Overview
+## Overview
 This project models the core data relationships within a wealth management system.  
 It represents how financial advisors manage clients, who own investment portfolios containing securities.
 
@@ -10,7 +10,7 @@ The application uses:
 
 ---
 
-## 📌 Entity Overview
+## Entity Overview
 
 | Entity | Description | Key Relationships |
 |--------|-------------|------------------|
@@ -21,7 +21,7 @@ The application uses:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|--------|
@@ -32,13 +32,3 @@ The application uses:
 | Maven/Gradle | Build tool |
 
 ---
-
-## 📂 Project Structure
-src/main/java/com/wellsfargo/counselor/entity/
-│
-├── Advisor.java
-├── Client.java
-├── Portfolio.java
-└── Security.java
-
-
